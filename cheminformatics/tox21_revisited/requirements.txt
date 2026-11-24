@@ -1,0 +1,1 @@
+pip install datasets rdkit scikit-learn scikit-fingerprints joblib pandas numpy
